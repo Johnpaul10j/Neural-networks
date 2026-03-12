@@ -1,2 +1,2 @@
-# Neural-networks
+# Shallow Neural-networks
 types of neural networks
